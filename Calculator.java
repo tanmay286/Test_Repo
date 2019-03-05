@@ -17,5 +17,14 @@ public class Calculator
 	else
 	{
 		System.out.println("Divion : "+(number1/number2));
+
+	public void subtraction(int number1,int number2)
+	{
+		System.out.println("Subtraction : "+(number1 - number2));
+	}
+	public void multiplication(int number1,int number2)
+	{
+		System.out.println("Multuplication : "+(number1 * number2));
+
 	}
 }	
