@@ -27,4 +27,8 @@ public class Calculator
 		System.out.println("Multuplication : "+(number1 * number2));
 
 	}
+	public void square(int number1)
+	{
+		System.out.println("Square : "+(number1 * number1));
+	}
 }	
