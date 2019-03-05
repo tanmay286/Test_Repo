@@ -12,7 +12,7 @@ public class Calculator
 	public void division(int number1,int number2)
 	if(number2==0)
 	{
-		System.out.println(" Number 2 should not be zero");
+		System.out.println(" Number2 should not be zero");
 	}
 	else
 	{
